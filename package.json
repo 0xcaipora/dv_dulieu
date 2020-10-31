@@ -1,0 +1,14 @@
+{
+  "name": "dich_vu_du_lieu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./Dich_vu/DV_DU_LIEU.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
