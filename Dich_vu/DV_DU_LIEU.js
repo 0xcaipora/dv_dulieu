@@ -2,7 +2,7 @@ var NodeJs_Dich_vu = require("http")
 //var Luu_tru = require("../Xu_ly/XL_LUU_TRU")
 var Luu_tru = require("../Xu_ly/XL_LUU_TRU_MONGODB")
 //var Port = 1000
-var Port = normalizePort(process.env.PORT || 10000);
+var Port = (process.env.PORT || 10000);
 var Xu_ly_Tham_so = require('querystring')
 var Du_lieu = {}
 // Promise
