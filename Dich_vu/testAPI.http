@@ -1,4 +1,4 @@
-GET http://localhost:1000/Ma_so_Xu_ly=DOC_DANH_SACH_DIEN_THOAI
+GET https://data-du-lieu.herokuapp.com/Ma_so_Xu_ly=DOC_DANH_SACH_DIEN_THOAI
 ###
 
 GET http://localhost:1000/Ma_so_Xu_ly=DOC_CUA_HANG
